@@ -1,7 +1,9 @@
-### Hi there 👋
 
-<!--
-**anajuliadiezner/anajuliadiezner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+olá, meu nome é Ana Julia Meurer Diezner
+Estudo no Colégio Estadual do Campo Aurélio Buarque de Holanda
+Estou na primeira série do ensino médio
+
+
 
 Here are some ideas to get you started:
 
